@@ -6,5 +6,5 @@ This repository contains the source code accompanying the research paper, "Learn
 
 ### Code Availability
 
-**Important Notice:** Upon official acceptance of our paper, **the complete source code will be made publicly available**. 
+**Important Notice:** Upon official acceptance of our paper, the complete source code will be made publicly available. 
 
